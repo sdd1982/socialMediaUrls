@@ -1,0 +1,24 @@
+{
+  "definitions": {
+    "Organization": {
+      "properties": {
+        "details": {
+          "properties": {
+            "socialMediaUrls": {
+              "description": "Redes sociales de la parte",
+              "title": "Redes sociales",
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "uniqueItems": true
+            }
+          },
+          "type": null,
+          "description": null,
+          "title": null
+        }
+      }
+    }
+  }
+}
