@@ -1,1 +1,17 @@
-{"name":{"en":"socialMediaUrls"},"description":{"en":"Redes sociales de la parte"},"documentationUrl":{"en":"https://github.com/sdd1982/socialMediaUrls/blob/master/README.md"}}
+{
+  "name": {
+    "en": "socialMediaUrls"
+  },
+  "description": {
+    "en": "Redes sociales de la parte"
+  },
+  "documentationUrl": {
+    "en": "https://github.com/sdd1982/socialMediaUrls/blob/master/README.md"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
+}
